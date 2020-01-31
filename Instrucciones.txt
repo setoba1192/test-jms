@@ -1,0 +1,15 @@
+1. Descargar el Manejador de mensajes ActiveMQ 
+
+https://activemq.apache.org/download.html
+
+2. Iniciar el ActiveMQ : bin/ java -jar activemq.jar start
+
+3. Iniciar el archivo test.jar : java -jar test.jar
+
+4. Iniciar el script :  ./script.bat amount n
+
+n = cantidad. 
+
+--------------------
+
+En el archivo .rar se encuentra el proyecto en java. 
